@@ -40,7 +40,7 @@
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
- <a target="_blank" href="https://www.discord.gg/UTxb2Dk9jQ"><img src="https://dcbadge.limes.pink/api/server/zkspfFwqDg" alt="" /></a>
+ <a target="_blank" href="https://www.discord.gg/UTxb2Dk9jQ"><img src="https://dcbadge.limes.pink/api/server/UTxb2Dk9jQ" alt="" /></a>
 </div>
 
 ###
